@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fengyi/static/css/main.c2a5595a.css",
+    "main.js": "/Fengyi/static/js/main.62b1997f.js",
+    "static/js/787.6971d1b3.chunk.js": "/Fengyi/static/js/787.6971d1b3.chunk.js",
+    "static/media/hashirshoaeb.png": "/Fengyi/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "index.html": "/Fengyi/index.html",
+    "main.c2a5595a.css.map": "/Fengyi/static/css/main.c2a5595a.css.map",
+    "main.62b1997f.js.map": "/Fengyi/static/js/main.62b1997f.js.map",
+    "787.6971d1b3.chunk.js.map": "/Fengyi/static/js/787.6971d1b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2a5595a.css",
+    "static/js/main.62b1997f.js"
+  ]
+}
